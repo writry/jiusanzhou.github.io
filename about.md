@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-Some information about you!
+|姓名|出生年月|
+|周辉|1993.07|
 
-### More Information
+### 联系我
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[jsz3@live.com](mailto:jsz3@live.com)
